@@ -3,4 +3,8 @@
 
 <p>Time to say <%= link_to "Hello", say_hello_path %></p>
 
-
+<ul>
+<% @files.each do |file| %>
+  <li>File name is : <%= file %></li>
+<% end %>
+</ul>
