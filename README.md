@@ -4,9 +4,11 @@
 
 - Ruby
 - Rails
+- AJAX
+- React.js
+- Webpack (using Webpacker gem)
 - ERB Templating
 - Basics of OOP
-- AJAX
 - Basics of PostGreSQL
 
 ## Major Project/Shopping Cart Application deployed at:
