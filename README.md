@@ -8,6 +8,7 @@
 - React.js
 - Webpack (using Webpacker gem)
 - ERB Templating
+- Unit and System Testing (Capybara)
 - Basics of OOP
 - Basics of PostGreSQL
 
