@@ -1,6 +1,8 @@
+# frozen_string_literal: true
+
 Rails.application.configure do
   # Verifies that versions and hashed value of the package contents in the project's package.json
-config.webpacker.check_yarn_integrity = true
+  config.webpacker.check_yarn_integrity = true
 
   # Settings specified here will take precedence over those in config/application.rb.
 
@@ -30,6 +32,15 @@ config.webpacker.check_yarn_integrity = true
     config.cache_store = :null_store
   end
 
+  config.action_mailer.delivery_method = :smtp
+  config.action_mailer.smtp_settings = {
+    user_name: '92f1e6d2985e9e',
+    password: '9c6a4e8cc9a552',
+    address: 'smtp.mailtrap.io',
+    domain: 'smtp.mailtrap.io',
+    port: '2525',
+    authentication: :cram_md5
+  }
   # Don't care if the mailer can't send.
   config.action_mailer.raise_delivery_errors = false
 
