@@ -29,5 +29,5 @@ cd depot/
 bundle install
 rails server
 ```
-
+See [Screenshot](https://imgur.com/LJFYlUo)
 ![](https://imgur.com/LJFYlUo)
