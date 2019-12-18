@@ -30,4 +30,4 @@ bundle install
 rails server
 ```
 See [Screenshot](https://imgur.com/LJFYlUo)
-![](https://imgur.com/LJFYlUo)
+![](/depot/app/assets/images/main_screen.jpg)
