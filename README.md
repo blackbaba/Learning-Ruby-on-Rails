@@ -34,4 +34,4 @@ See [Screenshot](https://imgur.com/LJFYlUo)
 
 ----
 
-![](/depot/app/assets/images/main_screen.jpg)
+![](https://github.com/blackbaba/Learning-Ruby-on-Rails/tree/master/depot/app/assets/images/main_screen.jpg)
