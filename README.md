@@ -12,6 +12,22 @@
 - Basics of OOP
 - Basics of PostGreSQL
 
-## Major Project/Shopping Cart Application deployed at:
+---
 
-https:www.heroku.com
+## Major Project - Shopping Cart Application
+
+**Technologies used**
+
+Ruby on Rails, Javascript, React.js, WebSockets, Advanced CSS and Webpack.
+
+**Usage Instructions**
+
+Clone the project into a local directory and run the following commands:
+
+```
+cd depot/
+bundle install
+rails server
+```
+
+![](./depot/app/assets/images/main_screen.jpg)
