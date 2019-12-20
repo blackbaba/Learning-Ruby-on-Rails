@@ -15,6 +15,7 @@
 ---
 
 ## Major Project - Shopping Cart Application
+**Heroku Demo** - https://gentle-caverns-27808.herokuapp.com/
 
 **Technologies used**
 
